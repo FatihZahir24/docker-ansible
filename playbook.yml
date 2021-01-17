@@ -1,4 +1,4 @@
-- hosts: Server
+- hosts: server
   vars:
   - image: faztech24/apache-docker-ansible
   tasks:
